@@ -1,0 +1,8 @@
+<html>
+    <body>
+        <h1>welcome, <%=user%></h1>
+        <h3>Todos</h3>
+        <%= todos.map(todo, (todo)=><li><%=todo.text%></li>).join('') %>
+    
+    </body>
+</html>

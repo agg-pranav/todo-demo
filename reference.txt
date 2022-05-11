@@ -1,0 +1,17 @@
+Write APIs to create a note taking application.
+- All notes are to be written to a JSON file.
+- One should be able to add new notes to the file, modify already written notes, delete notes and get all notes.
+- Should follow Rest API conventions.
+- Should handle errors gracefully with appropriate response codes.
+
+
+features of todo app
+- signup/ signin
+- crud todos
+- routes for session/ auth / admin- focus on backen
+
+
+mongo
+ejs template engine
+debug
+morgan
